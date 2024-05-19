@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    
+    margin-inline: auto;
+    
+    background-color: aqua;
+    padding: 10px 10px 10px 10px;
+}
+.container{
+    background-color: rgb(227, 226, 250);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20% 20% 20% 20%;
+    
+
+    
+}
+input{
+    padding: 5px 5px 5px 5px ;
+    margin-inline: auto;
+    margin-bottom: 20px;
+    border-radius: 10% ;
+}
+button{
+    padding: 10px;
+    border-radius: 20%;
+    margin-inline:auto ;
+    background-color: rgb(168, 67, 240);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+    
+}
+
+#guide{
+    margin-top: 10%;
+    padding: 10px 10px 10px 10px;
+    line-height: 40px;
+}
+p{
+    font-weight: 500;
+}
+#result{
+    margin-top: 20px;
+}
